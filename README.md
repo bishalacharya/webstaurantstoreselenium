@@ -16,7 +16,7 @@ The single test performs searching for 'Stainless work Table', navigating throug
 
 The project follows a Maven directory structure with the following key folders:
 
-- 'src/main/java': Contains Java source code.
+- 'src/test/java': Contains Java/Selenium test source code.
 - 'src/main/resources': Contains resources like configuration files.
 - 'pom.xml': Maven project configuration.
 
@@ -33,12 +33,12 @@ The project follows a Maven directory structure with the following key folders:
 
 ### Running the Test
 
-From Command Line
+Run From Command Line
 
 1. mvn test
 
 
-From Eclipse
+Run From Eclipse
 1. In Eclipse, open 'SearchTextboxTest.java' located in 'src/test/java'.
 2. Right-click on the file SearchTextboxTest.java and select 'Run As' -> 'JUnit Test'.
 3. Wait for the test to complete.
@@ -48,7 +48,7 @@ From Eclipse
 
 1. After the test execution, Project root folder will have extend report generated.
 2. Open the generated HTML report ('extent-report-1706398310954.html') in a web browser.
-3. The report includes detailed information about the test execution.
+3. The report includes detailed information about the test execution and failed Item, one in this test scenario.
 
 ## Test Scenario
 
