@@ -1,4 +1,4 @@
-# webstaurantstoreselenium
+# webstoreselenium
 # Selenium WebDriver Maven Project for WebstaurantStore
 
 This is a sample Selenium WebDriver project using Java, Maven, and JUnit. 
