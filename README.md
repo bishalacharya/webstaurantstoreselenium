@@ -1,9 +1,8 @@
 # webstoreselenium
-# Selenium WebDriver Maven Project for WebstaurantStore
+# Selenium WebDriver Maven Project
 
 This is a sample Selenium WebDriver project using Java, Maven, and JUnit. 
-The project automates tests on the [WebstaurantStore](https://www.webstaurantstore.com/) website. 
-The single test performs searching for 'Stainless work Table', navigating through search results, adding last item to the cart, and emptying the cart.
+The project automates tests on the website. 
 
 ## Environment Setup
 
@@ -52,7 +51,6 @@ Run From Eclipse
 
 ## Test Scenario
 
-The test scenario automates the following steps on [WebstaurantStore](https://www.webstaurantstore.com/):
 
 1. Navigate to the website.
 2. Search for 'stainless work table'.
